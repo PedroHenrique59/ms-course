@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Configurando zuul api gateway.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Porta aleatoria hr-payroll.">
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <recent name="com.devsuperior.hrpayroll.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.HrWorkerApplication">
+  <component name="RunManager" selected="Spring Boot.HrApiGatewayZuulApplication">
     <configuration name="HrApiGatewayZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="hr-api-gateway-zuul" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsuperior.hrapigatewayzuul.HrApiGatewayZuulApplication" />
@@ -129,7 +128,7 @@
       <workItem from="1674586183457" duration="5794000" />
       <workItem from="1674914290191" duration="7000" />
       <workItem from="1674914355112" duration="30000" />
-      <workItem from="1674914550446" duration="8319000" />
+      <workItem from="1674914550446" duration="8737000" />
     </task>
     <task id="LOCAL-00001" summary="getPayment mock.">
       <created>1674508557073</created>
@@ -194,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674927951332</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Porta aleatoria hr-payroll.">
+      <created>1674928767573</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674928767573</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +216,8 @@
     <MESSAGE value="Hystrix timeout" />
     <MESSAGE value="Criando projeto." />
     <MESSAGE value="Configurando zuul api gateway." />
-    <option name="LAST_COMMIT_MESSAGE" value="Configurando zuul api gateway." />
+    <MESSAGE value="Porta aleatorio hr-payroll." />
+    <MESSAGE value="Porta aleatoria hr-payroll." />
+    <option name="LAST_COMMIT_MESSAGE" value="Porta aleatoria hr-payroll." />
   </component>
 </project>

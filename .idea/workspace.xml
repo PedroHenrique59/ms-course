@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Criando projeto.">
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/devsuperior/hrapigatewayzuul/HrApiGatewayZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/devsuperior/hrapigatewayzuul/HrApiGatewayZuulApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Configurando zuul api gateway.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +129,7 @@
       <workItem from="1674586183457" duration="5794000" />
       <workItem from="1674914290191" duration="7000" />
       <workItem from="1674914355112" duration="30000" />
-      <workItem from="1674914550446" duration="7359000" />
+      <workItem from="1674914550446" duration="8319000" />
     </task>
     <task id="LOCAL-00001" summary="getPayment mock.">
       <created>1674508557073</created>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674927407294</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Configurando zuul api gateway.">
+      <created>1674927951332</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674927951332</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +209,7 @@
     <MESSAGE value="Random port hr-worker." />
     <MESSAGE value="Hystrix timeout" />
     <MESSAGE value="Criando projeto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando projeto." />
+    <MESSAGE value="Configurando zuul api gateway." />
+    <option name="LAST_COMMIT_MESSAGE" value="Configurando zuul api gateway." />
   </component>
 </project>

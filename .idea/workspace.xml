@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Configurando timeout zuul." />
+    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Configurando timeout zuul.">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-config-server/src/main/java/com/devsuperior/hrconfigserver/HrConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-config-server/src/main/java/com/devsuperior/hrconfigserver/HrConfigServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-config-server/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +76,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.intentionPowerPack",
-    "spring.configuration.checksum": "d1ff3b7175870cdbfc409016913e799f",
+    "spring.configuration.checksum": "ef643fe299c6880ade4c8a6b3b1f5f3b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,10 +88,17 @@
       <recent name="com.devsuperior.hrpayroll.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.HrApiGatewayZuulApplication">
+  <component name="RunManager" selected="Spring Boot.HrConfigServerApplication">
     <configuration name="HrApiGatewayZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="hr-api-gateway-zuul" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsuperior.hrapigatewayzuul.HrApiGatewayZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HrConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hr-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsuperior.hrconfigserver.HrConfigServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,6 +125,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.HrConfigServerApplication" />
       <item itemvalue="Spring Boot.HrApiGatewayZuulApplication" />
       <item itemvalue="Spring Boot.HrEurekaServerApplication" />
       <item itemvalue="Spring Boot.HrPayrollApplication" />
@@ -127,6 +151,7 @@
       <workItem from="1674914290191" duration="7000" />
       <workItem from="1674914355112" duration="30000" />
       <workItem from="1674914550446" duration="9054000" />
+      <workItem from="1674994095576" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="getPayment mock.">
       <created>1674508557073</created>

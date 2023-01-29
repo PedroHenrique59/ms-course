@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Porta aleatoria hr-payroll.">
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" afterDir="false" />
-    </list>
+    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Configurando timeout zuul." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +126,7 @@
       <workItem from="1674586183457" duration="5794000" />
       <workItem from="1674914290191" duration="7000" />
       <workItem from="1674914355112" duration="30000" />
-      <workItem from="1674914550446" duration="8737000" />
+      <workItem from="1674914550446" duration="9054000" />
     </task>
     <task id="LOCAL-00001" summary="getPayment mock.">
       <created>1674508557073</created>
@@ -200,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674928767573</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Configurando timeout zuul.">
+      <created>1674929460650</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674929460650</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +223,7 @@
     <MESSAGE value="Configurando zuul api gateway." />
     <MESSAGE value="Porta aleatorio hr-payroll." />
     <MESSAGE value="Porta aleatoria hr-payroll." />
-    <option name="LAST_COMMIT_MESSAGE" value="Porta aleatoria hr-payroll." />
+    <MESSAGE value="Configurando timeout zuul." />
+    <option name="LAST_COMMIT_MESSAGE" value="Configurando timeout zuul." />
   </component>
 </project>

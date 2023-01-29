@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Configurando hr-config-server.">
-      <change afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/bootstrap.properties" afterDir="false" />
+    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Adicionando hr-worker cliente config server.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-worker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/bootstrap.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,7 @@
       <workItem from="1674914290191" duration="7000" />
       <workItem from="1674914355112" duration="30000" />
       <workItem from="1674914550446" duration="9054000" />
-      <workItem from="1674994095576" duration="2117000" />
+      <workItem from="1674994095576" duration="3176000" />
     </task>
     <task id="LOCAL-00001" summary="getPayment mock.">
       <created>1674508557073</created>
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674995020364</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Adicionando hr-worker cliente config server.">
+      <created>1674996327307</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674996327307</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +256,7 @@
     <MESSAGE value="Porta aleatoria hr-payroll." />
     <MESSAGE value="Configurando timeout zuul." />
     <MESSAGE value="Configurando hr-config-server." />
-    <option name="LAST_COMMIT_MESSAGE" value="Configurando hr-config-server." />
+    <MESSAGE value="Adicionando hr-worker cliente config server." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando hr-worker cliente config server." />
   </component>
 </project>

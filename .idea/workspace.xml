@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Actuactor para refresh automático.">
+    <list default="true" id="a4bd43c6-cdb8-48dd-b3ae-1d7947666739" name="Changes" comment="Git hub privado.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-config-server/src/main/java/com/devsuperior/hrconfigserver/HrConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-config-server/src/main/java/com/devsuperior/hrconfigserver/HrConfigServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-config-server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +77,13 @@
       <recent name="com.devsuperior.hrpayroll.entities" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
   <component name="RunManager" selected="Spring Boot.HrConfigServerApplication">
     <configuration name="HrApiGatewayZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="hr-api-gateway-zuul" />
@@ -108,6 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HrUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hr-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsuperior.hruser.HrUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HrWorkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="hr-worker" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsuperior.hrworker.HrWorkerApplication" />
@@ -116,6 +128,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.HrUserApplication" />
       <item itemvalue="Spring Boot.HrConfigServerApplication" />
       <item itemvalue="Spring Boot.HrApiGatewayZuulApplication" />
       <item itemvalue="Spring Boot.HrEurekaServerApplication" />
@@ -149,6 +162,8 @@
       <workItem from="1674999358886" duration="156000" />
       <workItem from="1674999523432" duration="387000" />
       <workItem from="1674999918324" duration="411000" />
+      <workItem from="1675000340458" duration="85000" />
+      <workItem from="1676132922871" duration="1271000" />
     </task>
     <task id="LOCAL-00001" summary="getPayment mock.">
       <created>1674508557073</created>
@@ -248,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674998006669</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Git hub privado.">
+      <created>1675000416518</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675000416518</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +292,7 @@
     <MESSAGE value="Configurando hr-config-server." />
     <MESSAGE value="Adicionando hr-worker cliente config server." />
     <MESSAGE value="Actuactor para refresh automático." />
-    <option name="LAST_COMMIT_MESSAGE" value="Actuactor para refresh automático." />
+    <MESSAGE value="Git hub privado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Git hub privado." />
   </component>
 </project>

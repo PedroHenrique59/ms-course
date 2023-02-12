@@ -1,0 +1,3 @@
+hr-config-server
+hr-eureka-server
+hr-api-gateway-zuul
